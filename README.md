@@ -1,5 +1,3 @@
-# HYEFLIX
-
 ## 진입 페이지
 ![image](https://github.com/yhyem/HYEFLIX/assets/65844764/30dbf74d-17d5-443e-9479-88088df4a78d)
 
